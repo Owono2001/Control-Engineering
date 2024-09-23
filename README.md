@@ -8,6 +8,9 @@ The simulation demonstrates the benefits of using a PID controller, showing redu
 Team members:
 
 Pedro Fabian Owono Ondo Mangue (TP063251)
+
 Aravind Soundirarajan (TP066273)
+
 Mohamed Asim Khidir Wedatalla (TP065603)
+
 Khaled Abdelkarim Mahmoud Abdelkarim (TP066548)
